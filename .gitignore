@@ -1,6 +1,9 @@
+docker-compose.yaml
+
 # compiled output
 /dist
 /node_modules
+
 
 # Logs
 logs
